@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://littledy0427.github.io/CKH/</id>
+    <title>陈教授</title>
+    <updated>2023-08-26T16:19:52.572Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://littledy0427.github.io/CKH/"/>
+    <link rel="self" href="https://littledy0427.github.io/CKH/atom.xml"/>
+    <subtitle>陈教授的主页</subtitle>
+    <logo>https://littledy0427.github.io/CKH/images/avatar.png</logo>
+    <icon>https://littledy0427.github.io/CKH/favicon.ico</icon>
+    <rights>All rights reserved 2023, 陈教授</rights>
+    <entry>
+        <title type="html"><![CDATA[我是谁？]]></title>
+        <id>https://littledy0427.github.io/CKH/post/wo-shi-shui/</id>
+        <link href="https://littledy0427.github.io/CKH/post/wo-shi-shui/">
+        </link>
+        <updated>2023-08-26T15:42:39.000Z</updated>
+        <content type="html"><![CDATA[<pre><code class="language-python">print(123)
+</code></pre>
+<p>哈哈哈</p>
+]]></content>
+    </entry>
+</feed>
